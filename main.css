@@ -1,0 +1,435 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 1440px;
+    height: 6630px;
+    margin: 0 auto;
+    /* background-color: aqua; */
+   
+
+
+}
+
+header {
+    width: 1440px;
+    height: 79px;
+    /* background-color: green; */
+
+}
+
+.row {
+    width: 128px;
+    height: 39px;
+    background-image: url(../img/10.png);
+    position: relative;
+    Top: 15px;
+    Left: 120px
+}
+
+ul li {
+    display: inline-block;
+    padding: 12px;
+    margin-top: 10px;
+    position: relative;
+    top: -35px;
+    left: 550px;
+    font-family: sans-serif;
+    color: gray;
+
+}
+
+ul li:hover {
+    color: rgb(0, 0, 0);
+}
+
+.qa {
+    width: 150px;
+    height: 40px;
+    flex-shrink: 0;
+    background-color: rgb(104, 88, 58);
+    border: 1px solid rgb(104, 88, 58);
+    position: relative;
+    left: 1070px;
+    top: -75px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.you:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(104, 88, 58);
+
+}
+
+.you h3 {
+    margin-top: 7px;
+}
+
+.me {
+    width: 150px;
+    height: 40px;
+    flex-shrink: 0;
+    background-color: rgb(104, 88, 58);
+    border: 1px solid rgb(104, 88, 58);
+    position: relative;
+    left: 1250px;
+    top: -115px;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.me:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(104, 88, 58);
+
+}
+
+.me img {
+    position: relative;
+    top: 10px;
+    left: -50px;
+}
+
+.me h3 {
+    position: relative;
+    top: -12px;
+    left: -5px;
+}
+
+.qz {
+    width: 20px;
+    height: 18px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    left: 105px;
+    top: -32px;
+}
+
+
+
+.qw {
+    width: 1440px;
+    height: 640px;
+    background-color: black;
+    background-image: url('../img/IMAGE\ \(9\).png');
+    position: relative;
+    top: -92px;
+}
+
+.qs {
+    width: 542px;
+    height: 190px;
+    background-image: url('../img/Frame\ \(2\).png');
+    margin: 0 auto;
+    position: relative;
+    top: 200px;
+    left: -270px;
+
+}
+
+
+
+.uzb {
+    width: 1268px;
+    height: 576px;
+    background-image: url('../img/Frame\ \(3\).png');
+    position: relative;
+    top: -120px;
+    left: 0px;
+    padding: 0px, 88px, 0px, 0px;
+
+
+
+}
+
+.tox {
+    width: 256px;
+    height: 256px;
+    background-image: url('../img/IMAGE\ \(10\).png');
+    position: relative;
+    top: -250px;
+    padding: 0px, 3px, 0px, 3px;
+
+
+
+
+}
+
+.toxic {
+    width: 1440px;
+    height: 900px;
+    background-image: url('../img/Frame\ \(6\).png');
+    position: relative;
+    top: -280px;
+
+
+
+}
+
+.uba {
+    width: 1200px;
+    height: 1152.66px;
+    background-image: url('../img/6.png');
+    position: relative;
+    top: -150px;
+    left: 120px;
+    padding: 0px, 16px, 0px, 16px;
+
+}
+
+.qr {
+    width: 1440px;
+    height: 600px;
+    background-image: url('../img/7.png');
+
+}
+
+.oi {
+    width: 1440px;
+    height: 393px;
+    background-image: url('../img/main.png');
+    position: relative;
+    top: -150px;
+}
+
+.lo {
+    width: 120px;
+    height: 45px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    top: 249px;
+    left: 660px;
+    cursor: pointer;
+
+}
+
+.lol p {
+    margin-left: 10px;
+    /* margin-top: 20px; */
+
+}
+
+.hg {
+    width: 600px;
+    height: 129px;
+    background-image: url('../img/9.png');
+    position: relative;
+    left: 100px;
+    top: -50px;
+
+
+}
+
+.rasm {
+    width: 568px;
+    height: 319px;
+    background-image: url('../img/1212.png');
+    position: relative;
+    top: -20px;
+    left: 100px;
+
+}
+
+.resm {
+    width: 568px;
+    height: 319px;
+    background-image: url('../img/1213.png');
+    position: relative;
+    top: -400px;
+    left: 750px;
+}
+
+p {
+    /* margin-top: 150px; */
+    margin-left: 48px;
+}
+
+.JOURNAL {
+    margin-top: -380px;
+    margin-left: 750px;
+}
+
+.gg {
+    width: 568px;
+    height: 50px;
+    background-image: url('../img/E.png');
+    position: relative;
+    top: 50px;
+    left: 100px;
+
+}
+
+.gga {
+    width: 568px;
+    height: 50px;
+    background-image: url('../img/ex.png');
+    position: relative;
+    top: -30px;
+    left: 750px;
+}
+
+.icon {
+    width: 206px;
+    height: 21px;
+    background-image: url('../img/icon.png');
+    position: relative;
+    top: 50px;
+    left: 600px;
+    cursor: pointer;
+
+
+}
+
+.nihoyat {
+    width: 1168px;
+    height: 576px;
+    background-image: url('../img/nihoyat.png');
+    position: relative;
+    top: 10px;
+
+}
+
+
+
+
+.oldin {
+    width: 1440px;
+    height: 567px;
+    padding: 0px, 25px, 0px, 25px;
+    background-image: url('../img/78.png');
+    margin: 0 auto;
+    position: relative;
+    top: 200px;
+
+
+}
+
+.olma {
+    width: 458px;
+    height: 53px;
+    border-radius: 8px;
+    border: 1px;
+
+    position: relative;
+    left: 837px;
+    background-color: white;
+    top: -50px;
+    color: wheat;
+}
+
+.oxiri {
+    width: 73px;
+    height: 39px;
+    top: 7px;
+    left: 378px;
+    border-radius: 10px;
+    background-color: rgb(109, 80, 37);
+
+    position: relative;
+    left: 750px;
+    top: -50px;
+    cursor: pointer;
+}
+
+.tugashi {
+    width: 160px;
+    height: 48px;
+
+
+    background-image: url('../img/mavzu.png');
+    position: relative;
+    left: 600px;
+    top: -350px;
+
+}
+
+.davron {
+    width: 220.8px;
+    height: 193px;
+
+
+    background-image: url('../img/1-rasm.png');
+    position: relative;
+    left: 100px;
+    top: -250px;
+}
+
+.loatlo {
+    width: 220.8px;
+    height: 193px;
+
+
+    background-image: url('../img/2-rasm.png');
+    position: relative;
+    left: 300px;
+    top: -440px;
+}
+
+.asil {
+    width: 220.8px;
+    height: 193px;
+
+
+    background-image: url('../img/3-rasm.png');
+    position: relative;
+    left: 550px;
+    top: -635px;
+}
+
+
+
+.mening3-ishim {
+    font-family: sans-serif;
+    position: relative;
+    /* left: 925px; */
+    top: -600px;
+    color: rgb(156, 151, 151);
+}
+
+.insta {
+    width: 156px;
+    height: 24px;
+    background-image: url('../img/insta.png');
+    position: relative;
+    top: -560px;
+    left: 1130px;
+    /* background-color: black; */
+    cursor: pointer;
+
+
+
+}
+
+.uyda p {
+    width: 438px;
+    height: 40px;
+    position: relative;
+    top: -840px;
+    left: 740px;
+
+
+
+}
+
+.tugamadi p {
+    width: 108px;
+    height: 20px;
+    position: relative;
+    top: -915px;
+    left: 740px;
+
+
+
+}
